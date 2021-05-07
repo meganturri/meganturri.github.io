@@ -1,0 +1,8 @@
+---
+title: GEOG5003 - Assessment 1 Model
+---
+
+This model contains an Agent Based model that represents the movement and interaction of herbivours (e.g. sheep) with the envrionment. 
+It allows for random movement and takes into acount communication between agents and with the surrounding envrionment.
+The envrionment is represented through a text file containing  raster dataset presented as Comma Seperated Varibles (Envrionment. txt).
+
