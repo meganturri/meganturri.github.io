@@ -1,7 +1,6 @@
 ---
-GEOG5003 - Assessment 1 Model
+GEOG5003 Assessment 1 Model
 ---
-
 
 This model contains an Agent Based model that represents the movement and interaction of herbivours (e.g. sheep) with the envrionment and other agents. 
 It allows for random movement and takes into acount communication between themselves and with the surrounding envrionment.
