@@ -1,7 +1,5 @@
-theme: jekyll-theme-cayman
-
 ---
-title: GEOG5003 - Assessment 1 Model
+GEOG5003 - Assessment 1 Model
 ---
 
 
